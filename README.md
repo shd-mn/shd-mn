@@ -1,12 +1,6 @@
-<h1 align="middle">Hi there 👋</h1>
+<h3 >Hi there 👋</h3>
 
-I'm **Front-End Developer**. I’m currently learning Next.Js.
-
----
-
-## About Me
-
-I'm **Front-End Developer** with a passion for creating visually engaging and user-friendly web experiences, I am excited to share my skills and experience through my GitHub profile. With a strong background in HTML, CSS, and JavaScript, I am well-versed in creating responsive designs that work seamlessly across a variety of devices.
+I'm a **Front-End Developer**. I’m currently learning Next.Js.
 
 ---
 
@@ -36,6 +30,14 @@ I'm **Front-End Developer** with a passion for creating visually engaging and us
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 </details>
+
+
+
+
+---
+## About Me
+
+I'm a **Front-End Developer** with a passion for creating visually engaging and user-friendly web experiences, I am excited to share my skills and experience through my GitHub profile. With a strong background in HTML, CSS, and JavaScript, I am well-versed in creating responsive designs that work seamlessly across a variety of devices.
 
 ---
 

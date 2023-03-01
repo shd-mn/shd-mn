@@ -8,18 +8,17 @@ I'm a **Front-End Developer**. I’m currently learning Next.Js.
 
 <p>
 <!-- <img src="img/html5.svg" style='vertical-align:middle' aria-label="HTML 5"> -->
-
+ 
+![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
+![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
+![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
-![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
-![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
-![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
 
 </p>
 
-<details>
-<summary>More Skills</summary>
-<br>
+#### More Skills
+<p>
 
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -29,7 +28,7 @@ I'm a **Front-End Developer**. I’m currently learning Next.Js.
 ![Material Design](https://img.shields.io/static/v1?style=for-the-badge&message=Material+Design&color=757575&logo=Material+Design&logoColor=FFFFFF&label=)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-</details>
+</p>
 
 
 
@@ -37,7 +36,7 @@ I'm a **Front-End Developer**. I’m currently learning Next.Js.
 ---
 ## About Me
 
-I'm a **Front-End Developer** with a passion for creating visually engaging and user-friendly web experiences, I am excited to share my skills and experience through my GitHub profile. With a strong background in HTML, CSS, and JavaScript, I am well-versed in creating responsive designs that work seamlessly across a variety of devices.
+I'm a **Front-End Developer** with a passion for creating visually engaging and user-friendly web sites, I am excited to share my skills and experience through my GitHub profile. With a strong background in HTML, CSS, and JavaScript, I am well-versed in creating responsive designs that work seamlessly across a variety of devices.
 
 ---
 
